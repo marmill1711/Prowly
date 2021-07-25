@@ -1,0 +1,11 @@
+	Test steps 							Test Result
+1. Open www.google.com						Google.com is loaded and search box is visible
+
+2. Input "prooowly" in search box				"Prooowly" is visible in search box
+
+3. Press "Google search" 					New site with search results is loaded. 
+								Information under search box suggest that results are for phrase "prowly" 
+
+4. Press "News" button						Phrase in search box is changed from "prooowly" to "prowly"
+								Only news articles are displayed as a search results.
+								All results are mentioning "prowly" in titles or content.
