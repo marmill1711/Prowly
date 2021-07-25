@@ -1,6 +1,8 @@
 	Test steps 							Test Result
 1. Open www.google.com						Google.com is loaded and search box is visible
+
 2. Input "prowly" in search box					"Prowly" is visible in search box
+
 3. Press "Google search" 					New site with search results is loaded. 
 								All results are connected with phrase "prowly". 
 								By default "All" category is selected.
