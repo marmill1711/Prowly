@@ -1,0 +1,18 @@
+	Test steps 							Test Result
+1. Open www.google.com						Google.com is loaded and search box is visible
+
+2. Input "prowly" in search box					"Prowly" is visible in search box
+
+3. Press "Google search" 					New site with search results is loaded.
+
+4. Press "Tools" button						New options "Any time" and "All results" are expanded.
+
+5. Press "Any time" button					List with time options is expanded.
+
+6. Select "Custom range" option					New window with date selector is displayed.
+
+7. Input a date to "From" and "To" 				
+
+8. Press "Go" button						New site with selected date is loaded.
+			
+
